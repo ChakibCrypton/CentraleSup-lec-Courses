@@ -8,16 +8,15 @@ The econometrics module emphasizes application over mathematical complexity. Its
 
 The agent-based modeling module demonstrates how investment strategies and learning shape price dynamics. While simple econometric strategies are used, the incorporation of learning introduces non-linearities that result in realistic price behavior.
 
-### Syllabus : 
+### Syllabus:
 
+Financial Time Series Econometrics:
+- Stylized facts of financial time series
+- Portfolio optimization
+- Stationarity, covariance, correlation
+- Linear ARMA models
+- Estimation and forecasting
+- Introduction to volatility models: ARCH/GARCH
 
-Économétrie des séries temporelles financières :
-- Faits stylisés des séries temporelles financières.
-- Optimisation de portefeuille.
-- Stationnarité, covariance, corrélation.
-- Modèles linéaires ARMA.
-- Estimation/Prédiction.
-- Introduction aux modèles de volatilité ARCH/GARCH.
-  
-Modèles à agents :
-- construction et simulations de modèles à agents pour la modélisation des marchés et la reproduction de faits statistiques stylisés des données financières
+Agent-Based Models:
+- Construction and simulation of agent-based models for market modeling and reproduction of stylized statistical facts observed in financial data
