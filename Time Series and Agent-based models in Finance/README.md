@@ -7,3 +7,17 @@ This course studies the pricing of financial assets using two approaches: financ
 The econometrics module emphasizes application over mathematical complexity. Its main objective is to equip students with the skills needed to independently perform time series analysis using numerical methods. Students will learn to analyze real-world data and effectively characterize key features of financial markets.
 
 The agent-based modeling module demonstrates how investment strategies and learning shape price dynamics. While simple econometric strategies are used, the incorporation of learning introduces non-linearities that result in realistic price behavior.
+
+### Syllabus : 
+
+
+Économétrie des séries temporelles financières :
+- Faits stylisés des séries temporelles financières.
+- Optimisation de portefeuille.
+- Stationnarité, covariance, corrélation.
+- Modèles linéaires ARMA.
+- Estimation/Prédiction.
+- Introduction aux modèles de volatilité ARCH/GARCH.
+  
+Modèles à agents :
+- construction et simulations de modèles à agents pour la modélisation des marchés et la reproduction de faits statistiques stylisés des données financières
